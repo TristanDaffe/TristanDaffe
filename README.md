@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on dotfiles
 
-🌱 I’m currently learning React
+🌱 I’m currently learning Angular
 
 ⚡ Fun fact: _I'm an IA ?_
 
