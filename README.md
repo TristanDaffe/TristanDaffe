@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-<div>  
+<p>  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristandaffe&show_icons=true&locale=en&layout=compact" alt="tristandaffe" />
-</div>
+</p>
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=tristandaffe&label=Profile%20views&color=0e75b6&style=flat" alt="tristandaffe" /> </div>
 
 <div>
-🔭 I’m currently working on dotfiles
+🔭 I’m currently working on my dotfiles
 
 🌱 I’m currently learning Angular
 
 ⚡ Fun fact: _I'm an IA ?_
 </div>
 
-<div>  
+<p>  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=tristandaffe&show_icons=true&locale=en" alt="tristandaffe" />
-</div>
+</p>
 
 <sub><sup>_Wanna recommend some anime ?_</sup></sub>
 
