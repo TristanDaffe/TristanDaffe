@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on dotfiles
+
+🌱 I’m currently learning React
+
+⚡ Fun fact: _I'm an IA ?_
+
+<sub><sup>_Wanna recommend some anime ?_</sup></sub>
+
 <!--
 **TristanDaffe/TristanDaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
