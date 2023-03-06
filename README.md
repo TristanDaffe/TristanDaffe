@@ -25,8 +25,8 @@ The currently public repository are, for the most part, project that I realise d
 
 <h2>Stats</h2>
 <p>  
-  <img src="https://github-readme-stats.vercel.app/api/?username=TristanDaffe&show_icons=true&theme=midnight-purple" alt="tristandaffe" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TristanDaffe&theme=midnight-purple" alt="tristandaffe" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=TristanDaffe&show_icons=true&theme=midnight-purple" alt="tristandaffe" width="c%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TristanDaffe&theme=midnight-purple" alt="tristandaffe" width="45%"/>
 </p>
 
 ---
