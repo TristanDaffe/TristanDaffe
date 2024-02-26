@@ -5,7 +5,7 @@
 
 <p>I'm a graduated of a bachelior degree in computer science in Belgium. I'm more oriented towards web developpement but AI topics are very interessting to me.</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42"/>
-<p>I land a foot on the linux world for about a year now and love customizing  <a href="https://github.com/TristanDaffe/dotfiles">[ it ]</a>.</p>
+<p>I land a foot on the linux world in 2022 and love customizing <a href="https://github.com/TristanDaffe/dotfiles">[ it ]</a>.</p>
 
 The currently public repository are, for the most part, project that I realise during my bachelor's degree. 
 
