@@ -13,11 +13,13 @@ The currently public repository are, for the most part, project that I realise d
 
 <div>
   <p>
-  🔭 I’m currently working on my dotfiles and my Ansible playbook
-  
-  🌱 I’m currently learning Ansible for a personal <a href="https://github.com/TristanDaffe/Ansible-homelab">HomeLab</a>
-  
-  ⚡ Fun fact: _I'm an IA ?_
+    🔭 I’m currently working on my dotfiles and my Ansible playbook
+  </p>
+  <p>
+    🌱 I’m currently learning Ansible for a personal <a href="https://github.com/TristanDaffe/Ansible-homelab">HomeLab</a>
+  </p>
+  <p>
+    ⚡ Fun fact: _I'm an IA ?_
   </p>
 </div>
 
